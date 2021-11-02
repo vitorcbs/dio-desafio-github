@@ -1,0 +1,3 @@
+Link para download do git: https://git-scm.com/downloads
+Mkdir cria diretorio
+Cd muda de diretorio
