@@ -1,4 +1,4 @@
-# desafio github/git da DIO
+# Desafio github/git da DIO
 Repositorio criado para o desafio da Digital Innovation One sobre Git/Github
 
 ## Links Uteis
